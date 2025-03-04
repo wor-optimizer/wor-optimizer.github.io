@@ -1,4 +1,4 @@
-<hero_data>
+<data_hero>
 	<file>
 		<name>hero_0.txt</name>
 		<md5>d91bfab6f2629d0dfe39dad6107ac645</md5>
@@ -807,4 +807,26 @@
 		<name>hero_201.txt</name>
 		<md5>3af241c2c445dbc89e55aa5bfd9ea340</md5>
 	</file>
-</hero_data>
+</data_hero>
+<image_gear_type>
+	<file>
+		<name>type_0.png</name>
+		<md5>805dec77dc31fde22e02a5693c99c877</md5>
+	</file>
+	<file>
+		<name>type_1.png</name>
+		<md5>d18261ec96b6adcd5fa8af417d35fa9a</md5>
+	</file>
+	<file>
+		<name>type_2.png</name>
+		<md5>6ee2cfb002047d09dd696be1312a8468</md5>
+	</file>
+	<file>
+		<name>type_3.png</name>
+		<md5>5177fda9d6bf09510bdd407d4d91776f</md5>
+	</file>
+	<file>
+		<name>type_4.png</name>
+		<md5>d8a4d9210a9353872fbf920859b7eba6</md5>
+	</file>
+</image_gear_type>
