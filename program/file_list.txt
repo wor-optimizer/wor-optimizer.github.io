@@ -2270,3 +2270,9 @@
 		<md5>7d24a0a2ae9101233bdeda917c8a8843</md5>
 	</file>
 </image_hero_rarity>
+<program_optimizer>
+	<file>
+		<name>optimizer.jar</name>
+		<md5>63394c0ea568de5bb41f7f3330edad5c</md5>
+	</file>
+</program_optimizer>
