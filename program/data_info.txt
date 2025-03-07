@@ -1,3 +1,5 @@
-<launcher>
+<launcher_message>
 	<md5>xxx</md5>
-</launcher>
+	<md5>xxx mmmmmmmmmmmmmm mmmmmmmmmmmmmmmmmmmm mmmmmmmmmmmmmmmmmm</md5>
+	<md5>0</md5>
+</launcher_message>
