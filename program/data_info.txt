@@ -1,0 +1,3 @@
+<launcher>
+	<md5>xxx</md5>
+</launcher>
