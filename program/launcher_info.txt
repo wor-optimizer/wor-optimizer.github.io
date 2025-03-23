@@ -4,8 +4,8 @@
 		0
 		#>local_id_1
 		0
-		#>progress_value_1
-		5
+		#>progress_value_2
+		10
 		#>progress_description_21
 		Data: Hero attributes
 	#<block_info
