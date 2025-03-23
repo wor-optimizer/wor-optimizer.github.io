@@ -1242,3 +1242,47 @@
 		#<file
 	#<block_data
 #<file_block
+#>file_block_-1
+	#>block_info_-1
+		#>online_id_1
+		1
+		#>local_id_1
+		1
+		#>progress_value_2
+		10
+		#>progress_description_18
+		Image: Gear rarity
+	#<block_info
+	#>block_data_-1
+		#>file_-1
+			#>name_12
+			rarity_2.png
+			#>md5_32
+			ba72e416f15ca6cc260b44189be54289
+		#<file
+		#>file_-1
+			#>name_12
+			rarity_3.png
+			#>md5_32
+			e9f64ee339b9f016c43e4ce0de9eb848
+		#<file
+		#>file_-1
+			#>name_12
+			rarity_4.png
+			#>md5_32
+			d27b581c9e0a1951a1314c9bfd0b43e0
+		#<file
+		#>file_-1
+			#>name_12
+			rarity_5.png
+			#>md5_32
+			4276f80373d87b3765d9cbc10a12dbfb
+		#<file
+		#>file_-1
+			#>name_12
+			rarity_6.png
+			#>md5_32
+			9360354b2991af5e8212d73ff18cbf6b
+		#<file
+	#<block_data
+#<file_block
