@@ -1,18 +1,38 @@
-0
-
-2
-Ogrul
-17009
-3623
-1357
-311
-14
-2
-60
-2.6
-100
-0.0
-150.0
-0.0
-0.0
-13.0
+#>attributes_-1
+	#>class_1
+	5
+	#>faction_1
+	6
+	#>rarity_1
+	5
+	#>name_3
+	Nyx
+	#>hp_7
+	11848.0
+	#>atk_6
+	4084.0
+	#>def_5
+	597.0
+	#>atk_speed_5
+	100.0
+	#>crit_rate_3
+	0.0
+	#>crit_dmg_5
+	150.0
+	#>healing_effect_3
+	0.0
+	#>rage_regen_3
+	0.0
+	#>cost_4
+	22.0
+	#>block_3
+	1.0
+	#>revival_time_4
+	60.0
+	#>atk_interval_3
+	3.5
+	#>m_res_5
+	871.0
+	#>rage_regen_auto_4
+	14.0
+#<attributes

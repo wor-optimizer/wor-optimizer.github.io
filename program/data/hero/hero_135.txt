@@ -1,18 +1,38 @@
-0
-6
-3
-Nisalt
-8406
-3561
-576
-1975
-18
-1
-60
-2.6
-100
-0.0
-150.0
-0.0
-0.0
-14.0
+#>attributes_-1
+	#>class_1
+	1
+	#>faction_3
+	4,1
+	#>rarity_1
+	3
+	#>name_4
+	Niro
+	#>hp_6
+	6620.0
+	#>atk_6
+	2420.0
+	#>def_5
+	450.0
+	#>atk_speed_5
+	100.0
+	#>crit_rate_3
+	0.0
+	#>crit_dmg_5
+	150.0
+	#>healing_effect_3
+	0.0
+	#>rage_regen_3
+	0.0
+	#>cost_4
+	29.0
+	#>block_3
+	1.0
+	#>revival_time_4
+	60.0
+	#>atk_interval_3
+	3.5
+	#>m_res_6
+	1566.0
+	#>rage_regen_auto_4
+	14.0
+#<attributes

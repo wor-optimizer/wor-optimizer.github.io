@@ -1,18 +1,38 @@
-0
-1
-4
-Sadie
-11213
-3073
-1490
-2367
-9
-1
-60
-2.0
-100
-0.0
-150.0
-0.0
-0.0
-18.0
+#>attributes_-1
+	#>class_1
+	1
+	#>faction_1
+	2
+	#>rarity_1
+	4
+	#>name_4
+	Rork
+	#>hp_7
+	23042.0
+	#>atk_6
+	4867.0
+	#>def_6
+	1747.0
+	#>atk_speed_5
+	100.0
+	#>crit_rate_3
+	0.0
+	#>crit_dmg_5
+	150.0
+	#>healing_effect_3
+	0.0
+	#>rage_regen_3
+	0.0
+	#>cost_4
+	18.0
+	#>block_3
+	2.0
+	#>revival_time_4
+	60.0
+	#>atk_interval_3
+	2.6
+	#>m_res_5
+	389.0
+	#>rage_regen_auto_4
+	13.0
+#<attributes

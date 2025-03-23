@@ -1,18 +1,38 @@
-0
-1
-4
-Brokkir
-28761
-3024
-4050
-904
-19
-3
-60
-2.4
-100
-0.0
-150.0
-0.0
-0.0
-14.0
+#>attributes_-1
+	#>class_1
+	1
+	#>faction_3
+	1,6
+	#>rarity_1
+	4
+	#>name_7
+	Brienne
+	#>hp_6
+	8934.0
+	#>atk_6
+	2862.0
+	#>def_5
+	681.0
+	#>atk_speed_5
+	100.0
+	#>crit_rate_3
+	0.0
+	#>crit_dmg_5
+	150.0
+	#>healing_effect_3
+	0.0
+	#>rage_regen_3
+	0.0
+	#>cost_4
+	11.0
+	#>block_3
+	1.0
+	#>revival_time_4
+	60.0
+	#>atk_interval_3
+	2.0
+	#>m_res_5
+	711.0
+	#>rage_regen_auto_4
+	14.0
+#<attributes

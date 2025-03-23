@@ -1,18 +1,46 @@
-0
-0
-3
-Ain
-22163
-4873
-1772
-403
-19
-2
-60
-2.5
-100
-0.0
-150.0
-0.0
-0.0
-13.0
+#>attributes_-1
+	#>class_1
+	1
+	#>faction_1
+	7
+	#>rarity_1
+	4
+	#>name_2
+	Ai
+	#>hp_6
+	8449.0
+	#>atk_6
+	3647.0
+	#>def_5
+	619.0
+	#>atk_speed_5
+	100.0
+	#>crit_rate_3
+	0.0
+	#>crit_dmg_5
+	150.0
+	#>healing_effect_3
+	0.0
+	#>rage_regen_3
+	0.0
+	#>cost_4
+	19.0
+	#>block_3
+	1.0
+	#>revival_time_4
+	60.0
+	#>atk_interval_3
+	5.0
+	#>m_res_6
+	2004.0
+	#>rage_regen_auto_4
+	14.0
+#<attributes
+#>awakenings_-1
+	#>awakening_-1
+		#>attribute_1
+		9
+		#>value_1
+		5
+	#<awakening
+#<awakenings

@@ -1,18 +1,38 @@
-0
-0
-4
-Laya
-11746
-5440
-1042
-2272
-16
-1
-60
-3.0
-100
-0.0
-150.0
-0.0
-0.0
-15.0
+#>attributes_-1
+	#>class_1
+	1
+	#>faction_1
+	7
+	#>rarity_1
+	4
+	#>name_6
+	Laurel
+	#>hp_6
+	7093.0
+	#>atk_6
+	1730.0
+	#>def_5
+	489.0
+	#>atk_speed_5
+	100.0
+	#>crit_rate_3
+	0.0
+	#>crit_dmg_5
+	150.0
+	#>healing_effect_3
+	0.0
+	#>rage_regen_3
+	0.0
+	#>cost_4
+	13.0
+	#>block_3
+	1.0
+	#>revival_time_4
+	60.0
+	#>atk_interval_3
+	2.0
+	#>m_res_6
+	2307.0
+	#>rage_regen_auto_4
+	14.0
+#<attributes

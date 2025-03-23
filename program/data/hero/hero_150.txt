@@ -1,18 +1,38 @@
-0
-0
-2
-Rex
-18404
-1775
-2310
-543
-17
-3
-60
-2.1
-100
-0.0
-150.0
-0.0
-0.0
-14.0
+#>attributes_-1
+	#>class_1
+	1
+	#>faction_1
+	1
+	#>rarity_1
+	5
+	#>name_7
+	Regulus
+	#>hp_7
+	27360.0
+	#>atk_6
+	2837.0
+	#>def_6
+	4205.0
+	#>atk_speed_5
+	100.0
+	#>crit_rate_3
+	0.0
+	#>crit_dmg_5
+	150.0
+	#>healing_effect_3
+	0.0
+	#>rage_regen_3
+	0.0
+	#>cost_4
+	19.0
+	#>block_3
+	3.0
+	#>revival_time_4
+	60.0
+	#>atk_interval_3
+	2.4
+	#>m_res_5
+	939.0
+	#>rage_regen_auto_4
+	14.0
+#<attributes

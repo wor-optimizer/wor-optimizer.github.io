@@ -1,18 +1,38 @@
-0
-2
-4
-Torodor
-28316
-4513
-3213
-700
-25
-3
-60
-3.0
-100
-0.0
-150.0
-0.0
-0.0
-14.0
+#>attributes_-1
+	#>class_1
+	1
+	#>faction_1
+	5
+	#>rarity_1
+	4
+	#>name_5
+	Titus
+	#>hp_7
+	25785.0
+	#>atk_6
+	4283.0
+	#>def_6
+	2272.0
+	#>atk_speed_5
+	100.0
+	#>crit_rate_3
+	0.0
+	#>crit_dmg_5
+	150.0
+	#>healing_effect_3
+	0.0
+	#>rage_regen_3
+	0.0
+	#>cost_4
+	31.0
+	#>block_3
+	3.0
+	#>revival_time_4
+	60.0
+	#>atk_interval_3
+	3.0
+	#>m_res_5
+	557.0
+	#>rage_regen_auto_4
+	14.0
+#<attributes

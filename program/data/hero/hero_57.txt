@@ -1,18 +1,38 @@
-0
-5
-2
-Drogo
-7037
-2253
-368
-566
-23
-1
-60
-3.5
-100
-0.0
-150.0
-0.0
-0.0
-14.0
+#>attributes_-1
+	#>class_1
+	1
+	#>faction_1
+	3
+	#>rarity_1
+	4
+	#>name_6
+	Drayga
+	#>hp_7
+	22927.0
+	#>atk_6
+	2464.0
+	#>def_6
+	3172.0
+	#>atk_speed_5
+	100.0
+	#>crit_rate_3
+	0.0
+	#>crit_dmg_5
+	150.0
+	#>healing_effect_3
+	0.0
+	#>rage_regen_3
+	0.0
+	#>cost_4
+	18.0
+	#>block_3
+	3.0
+	#>revival_time_4
+	60.0
+	#>atk_interval_3
+	2.4
+	#>m_res_5
+	677.0
+	#>rage_regen_auto_4
+	14.0
+#<attributes

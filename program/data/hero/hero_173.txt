@@ -1,18 +1,38 @@
-0
-5
-3
-Theowin
-9084
-2941
-706
-706
-11
-1
-60
-2.0
-100
-0.0
-150.0
-0.0
-0.0
-14.0
+#>attributes_-1
+	#>class_1
+	1
+	#>faction_3
+	9,7
+	#>rarity_1
+	5
+	#>name_7
+	Thallen
+	#>hp_7
+	20262.0
+	#>atk_6
+	4392.0
+	#>def_6
+	3538.0
+	#>atk_speed_5
+	100.0
+	#>crit_rate_3
+	0.0
+	#>crit_dmg_5
+	150.0
+	#>healing_effect_3
+	0.0
+	#>rage_regen_3
+	0.0
+	#>cost_4
+	20.0
+	#>block_3
+	2.0
+	#>revival_time_4
+	60.0
+	#>atk_interval_3
+	2.5
+	#>m_res_6
+	1246.0
+	#>rage_regen_auto_4
+	12.0
+#<attributes

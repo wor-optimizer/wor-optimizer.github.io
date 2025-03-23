@@ -1,18 +1,38 @@
-0
-4
-3
-Scorch
-14439
-3304
-2622
-979
-19
-2
-60
-2.5
-100
-0.0
-150.0
-0.0
-0.0
-12.0
+#>attributes_-1
+	#>class_1
+	1
+	#>faction_3
+	8,6
+	#>rarity_1
+	5
+	#>name_6
+	Sargak
+	#>hp_7
+	11164.0
+	#>atk_6
+	3846.0
+	#>def_5
+	854.0
+	#>atk_speed_5
+	100.0
+	#>crit_rate_3
+	0.0
+	#>crit_dmg_5
+	150.0
+	#>healing_effect_3
+	0.0
+	#>rage_regen_3
+	0.0
+	#>cost_4
+	12.0
+	#>block_3
+	1.0
+	#>revival_time_4
+	60.0
+	#>atk_interval_3
+	2.0
+	#>m_res_5
+	854.0
+	#>rage_regen_auto_4
+	14.0
+#<attributes

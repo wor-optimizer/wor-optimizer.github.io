@@ -1,18 +1,38 @@
-0
-2
-3
-Komodo
-14141
-3462
-2055
-542
-18
-2
-60
-2.6
-100
-0.0
-150.0
-0.0
-0.0
-12.0
+#>attributes_-1
+	#>class_1
+	1
+	#>faction_1
+	2
+	#>rarity_1
+	5
+	#>name_9
+	King Harz
+	#>hp_7
+	26521.0
+	#>atk_6
+	3248.0
+	#>def_6
+	3640.0
+	#>atk_speed_5
+	100.0
+	#>crit_rate_3
+	0.0
+	#>crit_dmg_5
+	150.0
+	#>healing_effect_3
+	0.0
+	#>rage_regen_3
+	0.0
+	#>cost_4
+	19.0
+	#>block_3
+	3.0
+	#>revival_time_4
+	60.0
+	#>atk_interval_3
+	2.4
+	#>m_res_5
+	989.0
+	#>rage_regen_auto_4
+	14.0
+#<attributes

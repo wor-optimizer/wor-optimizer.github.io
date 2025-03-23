@@ -1,18 +1,46 @@
-0
-6
-3
-Ai
-8449
-3647
-619
-2004
-19
-1
-60
-5.0
-100
-0.0
-150.0
-0.0
-0.0
-14.0
+#>attributes_-1
+	#>class_1
+	1
+	#>faction_3
+	1,7
+	#>rarity_1
+	5
+	#>name_5
+	Aeris
+	#>hp_7
+	21834.0
+	#>atk_6
+	5008.0
+	#>def_6
+	3571.0
+	#>atk_speed_5
+	100.0
+	#>crit_rate_3
+	0.0
+	#>crit_dmg_5
+	150.0
+	#>healing_effect_3
+	0.0
+	#>rage_regen_3
+	0.0
+	#>cost_4
+	26.0
+	#>block_3
+	2.0
+	#>revival_time_4
+	60.0
+	#>atk_interval_3
+	2.5
+	#>m_res_6
+	1348.0
+	#>rage_regen_auto_4
+	12.0
+#<attributes
+#>awakenings_-1
+	#>awakening_-1
+		#>attribute_1
+		2
+		#>value_3
+		300
+	#<awakening
+#<awakenings

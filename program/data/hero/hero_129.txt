@@ -1,18 +1,38 @@
-0
-3
-4
-Morrigan
-10173
-4291
-751
-2598
-17
-1
-60
-3.0
-100
-0.0
-150.0
-0.0
-0.0
-14.0
+#>attributes_-1
+	#>class_1
+	1
+	#>faction_3
+	5,6
+	#>rarity_1
+	3
+	#>name_6
+	Morene
+	#>hp_6
+	6830.0
+	#>atk_6
+	2275.0
+	#>def_5
+	555.0
+	#>atk_speed_5
+	100.0
+	#>crit_rate_3
+	0.0
+	#>crit_dmg_5
+	150.0
+	#>healing_effect_3
+	0.0
+	#>rage_regen_3
+	0.0
+	#>cost_4
+	10.0
+	#>block_3
+	1.0
+	#>revival_time_4
+	60.0
+	#>atk_interval_3
+	2.0
+	#>m_res_5
+	532.0
+	#>rage_regen_auto_4
+	14.0
+#<attributes

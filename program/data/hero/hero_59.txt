@@ -1,18 +1,38 @@
-0
-7,3
-4
-Durza
-8822
-3024
-614
-2854
-14
-1
-60
-2.8
-100
-0.0
-150.0
-0.0
-0.0
-14.0
+#>attributes_-1
+	#>class_1
+	1
+	#>faction_0
+	
+	#>rarity_1
+	3
+	#>name_7
+	Duradel
+	#>hp_7
+	16846.0
+	#>atk_6
+	3704.0
+	#>def_6
+	1334.0
+	#>atk_speed_5
+	100.0
+	#>crit_rate_3
+	0.0
+	#>crit_dmg_5
+	150.0
+	#>healing_effect_3
+	0.0
+	#>rage_regen_3
+	0.0
+	#>cost_4
+	14.0
+	#>block_3
+	2.0
+	#>revival_time_4
+	60.0
+	#>atk_interval_3
+	2.6
+	#>m_res_5
+	323.0
+	#>rage_regen_auto_4
+	13.0
+#<attributes

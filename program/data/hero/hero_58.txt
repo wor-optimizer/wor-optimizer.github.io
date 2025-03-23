@@ -1,18 +1,38 @@
-0
-
-2
-Duradel
-16846
-3704
-1334
-323
-14
-2
-60
-2.6
-100
-0.0
-150.0
-0.0
-0.0
-13.0
+#>attributes_-1
+	#>class_1
+	1
+	#>faction_1
+	6
+	#>rarity_1
+	3
+	#>name_5
+	Drogo
+	#>hp_6
+	7037.0
+	#>atk_6
+	2253.0
+	#>def_5
+	368.0
+	#>atk_speed_5
+	100.0
+	#>crit_rate_3
+	0.0
+	#>crit_dmg_5
+	150.0
+	#>healing_effect_3
+	0.0
+	#>rage_regen_3
+	0.0
+	#>cost_4
+	23.0
+	#>block_3
+	1.0
+	#>revival_time_4
+	60.0
+	#>atk_interval_3
+	3.5
+	#>m_res_5
+	566.0
+	#>rage_regen_auto_4
+	14.0
+#<attributes

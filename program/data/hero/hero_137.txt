@@ -1,18 +1,38 @@
-0
-1,4
-4
-Nocturne
-9647
-4636
-692
-2399
-19
-1
-60
-2.6
-100
-0.0
-150.0
-0.0
-0.0
-14.0
+#>attributes_-1
+	#>class_1
+	1
+	#>faction_1
+	6
+	#>rarity_1
+	4
+	#>name_9
+	Nissandei
+	#>hp_6
+	8781.0
+	#>atk_6
+	4416.0
+	#>def_5
+	706.0
+	#>atk_speed_5
+	100.0
+	#>crit_rate_3
+	0.0
+	#>crit_dmg_5
+	150.0
+	#>healing_effect_3
+	0.0
+	#>rage_regen_3
+	0.0
+	#>cost_4
+	15.0
+	#>block_3
+	1.0
+	#>revival_time_4
+	60.0
+	#>atk_interval_3
+	3.0
+	#>m_res_6
+	1614.0
+	#>rage_regen_auto_4
+	15.0
+#<attributes

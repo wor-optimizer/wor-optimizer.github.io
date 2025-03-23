@@ -1,18 +1,38 @@
-0
-2
-4
-Magmus
-26998
-7967
-2170
-512
-17
-2
-60
-3.2
-100
-0.0
-150.0
-0.0
-0.0
-13.0
+#>attributes_-1
+	#>class_1
+	1
+	#>faction_1
+	4
+	#>rarity_1
+	5
+	#>name_5
+	Magda
+	#>hp_7
+	18619.0
+	#>atk_6
+	4308.0
+	#>def_6
+	3350.0
+	#>atk_speed_5
+	100.0
+	#>crit_rate_3
+	0.0
+	#>crit_dmg_5
+	150.0
+	#>healing_effect_3
+	0.0
+	#>rage_regen_3
+	0.0
+	#>cost_4
+	20.0
+	#>block_3
+	2.0
+	#>revival_time_4
+	60.0
+	#>atk_interval_3
+	2.5
+	#>m_res_6
+	1246.0
+	#>rage_regen_auto_4
+	12.0
+#<attributes

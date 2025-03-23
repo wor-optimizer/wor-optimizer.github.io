@@ -1,18 +1,18 @@
 #>attributes_-1
 	#>class_1
-	1
-	#>faction_3
-	8,3
+	3
+	#>faction_1
+	3
 	#>rarity_1
-	4
-	#>name_6
-	Vladov
-	#>hp_7
-	15356.0
+	5
+	#>name_9
+	Beelzebub
+	#>hp_6
+	9284.0
 	#>atk_6
-	3446.0
-	#>def_6
-	2148.0
+	2307.0
+	#>def_5
+	597.0
 	#>atk_speed_5
 	100.0
 	#>crit_rate_3
@@ -24,15 +24,15 @@
 	#>rage_regen_3
 	0.0
 	#>cost_4
-	18.0
+	10.0
 	#>block_3
-	2.0
+	1.0
 	#>revival_time_4
 	60.0
 	#>atk_interval_3
-	2.6
-	#>m_res_5
-	518.0
+	2.0
+	#>m_res_6
+	2820.0
 	#>rage_regen_auto_4
-	12.0
+	14.0
 #<attributes

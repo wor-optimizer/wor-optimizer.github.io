@@ -1,18 +1,38 @@
-1
-1,7
-4
-Lu Bu
-19937
-5418
-3078
-579
-20
-2
-60
-2.6
-100
-0.0
-150.0
-0.0
-0.0
-12.0
+#>attributes_-1
+	#>class_1
+	3
+	#>faction_3
+	1,5
+	#>rarity_1
+	5
+	#>name_8
+	Diaochan
+	#>hp_6
+	9711.0
+	#>atk_6
+	2583.0
+	#>def_6
+	1794.0
+	#>atk_speed_5
+	100.0
+	#>crit_rate_3
+	0.0
+	#>crit_dmg_5
+	150.0
+	#>healing_effect_3
+	0.0
+	#>rage_regen_3
+	0.0
+	#>cost_3
+	6.0
+	#>block_3
+	1.0
+	#>revival_time_4
+	60.0
+	#>atk_interval_3
+	6.0
+	#>m_res_6
+	2529.0
+	#>rage_regen_auto_4
+	18.0
+#<attributes

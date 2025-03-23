@@ -1,18 +1,38 @@
-0
-3
-4
-Zelus
-10497
-4479
-751
-2529
-25
-1
-60
-5.0
-100
-0.0
-150.0
-0.0
-0.0
-14.0
+#>attributes_-1
+	#>class_1
+	1
+	#>faction_2
+	10
+	#>rarity_1
+	5
+	#>name_6
+	Ymiret
+	#>hp_7
+	17764.0
+	#>atk_6
+	4718.0
+	#>def_6
+	2820.0
+	#>atk_speed_5
+	100.0
+	#>crit_rate_3
+	0.0
+	#>crit_dmg_5
+	150.0
+	#>healing_effect_3
+	0.0
+	#>rage_regen_3
+	0.0
+	#>cost_4
+	20.0
+	#>block_3
+	2.0
+	#>revival_time_4
+	60.0
+	#>atk_interval_3
+	2.6
+	#>m_res_5
+	888.0
+	#>rage_regen_auto_4
+	14.0
+#<attributes

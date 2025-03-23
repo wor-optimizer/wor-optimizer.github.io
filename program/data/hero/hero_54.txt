@@ -1,18 +1,38 @@
-0
-3
-4
-Demi
-13251
-4308
-1435
-2015
-21
-1
-60
-2.7
-100
-0.0
-150.0
-0.0
-0.0
-14.0
+#>attributes_-1
+	#>class_1
+	1
+	#>faction_1
+	3
+	#>rarity_1
+	4
+	#>name_6
+	Deimos
+	#>hp_7
+	15485.0
+	#>atk_6
+	3333.0
+	#>def_6
+	2113.0
+	#>atk_speed_5
+	100.0
+	#>crit_rate_3
+	0.0
+	#>crit_dmg_5
+	150.0
+	#>healing_effect_3
+	0.0
+	#>rage_regen_3
+	0.0
+	#>cost_4
+	18.0
+	#>block_3
+	2.0
+	#>revival_time_4
+	60.0
+	#>atk_interval_3
+	2.6
+	#>m_res_5
+	499.0
+	#>rage_regen_auto_4
+	12.0
+#<attributes

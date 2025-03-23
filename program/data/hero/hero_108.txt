@@ -1,18 +1,38 @@
-4
-8,5
-4
-Lady Alexandra
-13696
-4291
-1093
-1026
-18
-1
-60
-2.0
-100
-0.0
-150.0
-0.0
-0.0
-14.0
+#>attributes_-1
+	#>class_1
+	1
+	#>faction_1
+	2
+	#>rarity_1
+	5
+	#>name_6
+	Krodor
+	#>hp_7
+	29872.0
+	#>atk_6
+	3024.0
+	#>def_6
+	3863.0
+	#>atk_speed_5
+	100.0
+	#>crit_rate_3
+	0.0
+	#>crit_dmg_5
+	150.0
+	#>healing_effect_3
+	0.0
+	#>rage_regen_3
+	0.0
+	#>cost_4
+	19.0
+	#>block_3
+	3.0
+	#>revival_time_4
+	60.0
+	#>atk_interval_3
+	2.4
+	#>m_res_5
+	854.0
+	#>rage_regen_auto_4
+	14.0
+#<attributes

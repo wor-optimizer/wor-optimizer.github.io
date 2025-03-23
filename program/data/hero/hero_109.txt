@@ -1,18 +1,38 @@
-0
-3
-4
-Laseer
-10924
-4120
-734
-2598
-17
-1
-60
-3.5
-100
-0.0
-150.0
-0.0
-0.0
-14.0
+#>attributes_-1
+	#>class_1
+	5
+	#>faction_3
+	9,6
+	#>rarity_1
+	5
+	#>name_14
+	Lady Alexandra
+	#>hp_7
+	13696.0
+	#>atk_6
+	4291.0
+	#>def_6
+	1093.0
+	#>atk_speed_5
+	100.0
+	#>crit_rate_3
+	0.0
+	#>crit_dmg_5
+	150.0
+	#>healing_effect_3
+	0.0
+	#>rage_regen_3
+	0.0
+	#>cost_4
+	18.0
+	#>block_3
+	1.0
+	#>revival_time_4
+	60.0
+	#>atk_interval_3
+	2.0
+	#>m_res_6
+	1026.0
+	#>rage_regen_auto_4
+	14.0
+#<attributes

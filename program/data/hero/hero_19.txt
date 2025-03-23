@@ -1,18 +1,38 @@
-0
-3
-4
-Artemis
-11011
-5466
-888
-2203
-18
-1
-60
-3.0
-100
-0.0
-150.0
-0.0
-0.0
-15.0
+#>attributes_-1
+	#>class_1
+	1
+	#>faction_1
+	3
+	#>rarity_1
+	5
+	#>name_9
+	Arrogance
+	#>hp_7
+	17509.0
+	#>atk_6
+	5248.0
+	#>def_6
+	2786.0
+	#>atk_speed_5
+	100.0
+	#>crit_rate_3
+	0.0
+	#>crit_dmg_5
+	150.0
+	#>healing_effect_3
+	0.0
+	#>rage_regen_3
+	0.0
+	#>cost_4
+	18.0
+	#>block_3
+	2.0
+	#>revival_time_4
+	60.0
+	#>atk_interval_3
+	2.4
+	#>m_res_5
+	751.0
+	#>rage_regen_auto_4
+	14.0
+#<attributes

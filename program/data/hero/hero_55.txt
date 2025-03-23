@@ -1,18 +1,38 @@
-0
-4
-3
-Dolores
-7459
-2536
-1378
-1988
-5
-1
-60
-2.0
-100
-0.0
-150.0
-0.0
-0.0
-18.0
+#>attributes_-1
+	#>class_1
+	1
+	#>faction_1
+	4
+	#>rarity_1
+	5
+	#>name_4
+	Demi
+	#>hp_7
+	13251.0
+	#>atk_6
+	4308.0
+	#>def_6
+	1435.0
+	#>atk_speed_5
+	100.0
+	#>crit_rate_3
+	0.0
+	#>crit_dmg_5
+	150.0
+	#>healing_effect_3
+	0.0
+	#>rage_regen_3
+	0.0
+	#>cost_4
+	21.0
+	#>block_3
+	1.0
+	#>revival_time_4
+	60.0
+	#>atk_interval_3
+	2.7
+	#>m_res_6
+	2015.0
+	#>rage_regen_auto_4
+	14.0
+#<attributes

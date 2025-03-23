@@ -1,18 +1,38 @@
-0
-5
-3
-Lili
-8334
-4369
-691
-1743
-17
-1
-60
-3.0
-100
-0.0
-150.0
-0.0
-0.0
-15.0
+#>attributes_-1
+	#>class_1
+	1
+	#>faction_3
+	1,2
+	#>rarity_1
+	4
+	#>name_10
+	Lightlocke
+	#>hp_6
+	8781.0
+	#>atk_6
+	4323.0
+	#>def_5
+	720.0
+	#>atk_speed_5
+	100.0
+	#>crit_rate_3
+	0.0
+	#>crit_dmg_5
+	150.0
+	#>healing_effect_3
+	0.0
+	#>rage_regen_3
+	0.0
+	#>cost_4
+	17.0
+	#>block_3
+	1.0
+	#>revival_time_4
+	60.0
+	#>atk_interval_3
+	3.0
+	#>m_res_6
+	1628.0
+	#>rage_regen_auto_4
+	15.0
+#<attributes

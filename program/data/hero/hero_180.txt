@@ -1,18 +1,38 @@
-0
-7
-4
-Valderon
-29582
-6649
-2170
-493
-19
-2
-60
-2.6
-100
-0.0
-150.0
-0.0
-0.0
-13.0
+#>attributes_-1
+	#>class_1
+	1
+	#>faction_3
+	8,4
+	#>rarity_1
+	5
+	#>name_6
+	Uredin
+	#>hp_7
+	18619.0
+	#>atk_6
+	6189.0
+	#>def_6
+	3315.0
+	#>atk_speed_5
+	100.0
+	#>crit_rate_3
+	0.0
+	#>crit_dmg_5
+	150.0
+	#>healing_effect_3
+	0.0
+	#>rage_regen_3
+	0.0
+	#>cost_4
+	20.0
+	#>block_3
+	2.0
+	#>revival_time_4
+	60.0
+	#>atk_interval_3
+	3.5
+	#>m_res_6
+	1230.0
+	#>rage_regen_auto_4
+	12.0
+#<attributes

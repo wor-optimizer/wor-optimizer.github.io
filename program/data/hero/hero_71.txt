@@ -1,18 +1,38 @@
-0
-1
-4
-Falcia
-19185
-4564
-2716
-630
-19
-2
-60
-2.6
-100
-0.0
-150.0
-0.0
-0.0
-0.0
+#>attributes_-1
+	#>class_1
+	1
+	#>faction_1
+	7
+	#>rarity_1
+	5
+	#>name_5
+	Ezryn
+	#>hp_7
+	10686.0
+	#>atk_6
+	5493.0
+	#>def_5
+	854.0
+	#>atk_speed_5
+	100.0
+	#>crit_rate_3
+	0.0
+	#>crit_dmg_5
+	150.0
+	#>healing_effect_3
+	0.0
+	#>rage_regen_3
+	0.0
+	#>cost_4
+	18.0
+	#>block_3
+	1.0
+	#>revival_time_4
+	60.0
+	#>atk_interval_3
+	2.0
+	#>m_res_6
+	2187.0
+	#>rage_regen_auto_4
+	15.0
+#<attributes

@@ -1,18 +1,38 @@
-0
-1
-2
-Dagna
-11989
-1903
-2204
-1498
-16
-3
-60
-2.4
-100
-0.0
-150.0
-0.0
-0.0
-14.0
+#>attributes_-1
+	#>class_1
+	1
+	#>faction_1
+	3
+	#>rarity_1
+	4
+	#>name_6
+	Daemon
+	#>hp_7
+	14838.0
+	#>atk_6
+	3200.0
+	#>def_6
+	2104.0
+	#>atk_speed_5
+	100.0
+	#>crit_rate_3
+	0.0
+	#>crit_dmg_5
+	150.0
+	#>healing_effect_3
+	0.0
+	#>rage_regen_3
+	0.0
+	#>cost_4
+	12.0
+	#>block_3
+	2.0
+	#>revival_time_4
+	18.0
+	#>atk_interval_3
+	2.0
+	#>m_res_5
+	547.0
+	#>rage_regen_auto_4
+	12.0
+#<attributes

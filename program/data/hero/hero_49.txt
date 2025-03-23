@@ -1,18 +1,38 @@
-0
-3
-4
-Dahlia
-10924
-4137
-751
-2614
-21
-1
-60
-3.5
-100
-0.0
-150.0
-0.0
-0.0
-14.0
+#>attributes_-1
+	#>class_1
+	1
+	#>faction_1
+	2
+	#>rarity_1
+	3
+	#>name_5
+	Dagna
+	#>hp_7
+	11989.0
+	#>atk_6
+	1903.0
+	#>def_6
+	2204.0
+	#>atk_speed_5
+	100.0
+	#>crit_rate_3
+	0.0
+	#>crit_dmg_5
+	150.0
+	#>healing_effect_3
+	0.0
+	#>rage_regen_3
+	0.0
+	#>cost_4
+	16.0
+	#>block_3
+	3.0
+	#>revival_time_4
+	60.0
+	#>atk_interval_3
+	2.4
+	#>m_res_6
+	1498.0
+	#>rage_regen_auto_4
+	14.0
+#<attributes
