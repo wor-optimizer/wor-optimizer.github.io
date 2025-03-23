@@ -1,10 +1,8 @@
 #>file_block_-1
 	#>block_info_-1
-		#>file_amount_3
-		202
 		#>online_id_1
 		0
-		#>locla_id_1
+		#>local_id_1
 		0
 		#>progress_value_1
 		5
