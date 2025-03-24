@@ -1,9 +1,9 @@
 #>file_block_-1
 	#>block_info_-1
-		#>online_id_1
-		0
-		#>local_id_1
-		0
+		#>online_path_10
+		#data#hero
+		#>local_path_10
+		#data#hero
 		#>progress_value_2
 		10
 		#>progress_description_21
@@ -1244,10 +1244,10 @@
 #<file_block
 #>file_block_-1
 	#>block_info_-1
-		#>online_id_1
-		1
-		#>local_id_1
-		1
+		#>online_path_18
+		#image#gear#rarity
+		#>local_path_18
+		#image#gear#rarity
 		#>progress_value_2
 		10
 		#>progress_description_18
@@ -1288,10 +1288,10 @@
 #<file_block
 #>file_block_-1
 	#>block_info_-1
-		#>online_id_1
-		2
-		#>local_id_1
-		2
+		#>online_path_16
+		#image#gear#type
+		#>local_path_16
+		#image#gear#type
 		#>progress_value_2
 		10
 		#>progress_description_16
@@ -1332,10 +1332,10 @@
 #<file_block
 #>file_block_-1
 	#>block_info_-1
-		#>online_id_1
-		3
-		#>local_id_1
-		3
+		#>online_ipath_26
+		#image#gear#set#left#piece
+		#>local_path_26
+		#image#gear#set#left#piece
 		#>progress_value_2
 		10
 		#>progress_description_24
@@ -1466,10 +1466,10 @@
 #<file_block
 #>file_block_-1
 	#>block_info_-1
-		#>online_id_1
-		4
-		#>local_id_1
-		4
+		#>online_path_24
+		#image#gear#set#left#set
+		#>local_path_24
+		#image#gear#set#left#set
 		#>progress_value_2
 		10
 		#>progress_description_22
@@ -1582,10 +1582,10 @@
 #<file_block
 #>file_block_-1
 	#>block_info_-1
-		#>online_id_1
-		5
-		#>local_id_1
-		5
+		#>online_path_27
+		#image#gear#set#right#piece
+		#>local_path_27
+		#image#gear#set#right#piece
 		#>progress_value_2
 		10
 		#>progress_description_25
@@ -2010,10 +2010,10 @@
 #<file_block
 #>file_block_-1
 	#>block_info_-1
-		#>online_id_1
-		6
-		#>local_id_1
-		6
+		#>online_path_25
+		#image#gear#set#right#set
+		#>local_path_25
+		#image#gear#set#right#set
 		#>progress_value_2
 		10
 		#>progress_description_23
@@ -2186,10 +2186,10 @@
 #<file_block
 #>file_block_-1
 	#>block_info_-1
-		#>online_id_1
-		7
-		#>local_id_1
-		7
+		#>online_path_17
+		#image#hero#class
+		#>local_path_17
+		#image#hero#class
 		#>progress_value_2
 		10
 		#>progress_description_17
@@ -2230,10 +2230,10 @@
 #<file_block
 #>file_block_-1
 	#>block_info_-1
-		#>online_id_1
-		8
-		#>local_id_1
-		8
+		#>online_path_19
+		#image#hero#faction
+		#>local_path_19
+		#image#hero#faction
 		#>progress_value_2
 		10
 		#>progress_description_19
@@ -2310,10 +2310,10 @@
 #<file_block
 #>file_block_-1
 	#>block_info_-1
-		#>online_id_1
-		9
-		#>local_id_1
-		9
+		#>online_path_20
+		#image#hero#portrait
+		#>local_path_20
+		#image#hero#portrait
 		#>progress_value_2
 		10
 		#>progress_description_20
@@ -3548,10 +3548,10 @@
 #<file_block
 #>file_block_-1
 	#>block_info_-1
-		#>online_id_2
-		10
-		#>local_id_2
-		10
+		#>online_path_18
+		#image#hero#rarity
+		#>local_path_18
+		#image#hero#rarity
 		#>progress_value_2
 		10
 		#>progress_description_18
@@ -3622,10 +3622,10 @@
 #<file_block
 #>file_block_-1
 	#>block_info_-1
-		#>online_id_2
-		11
-		#>local_id_2
-		11
+		#>online_path_1
+		#
+		#>local_path_8
+		#program
 		#>progress_value_2
 		10
 		#>progress_description_18
