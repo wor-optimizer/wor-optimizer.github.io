@@ -1,3 +1,4 @@
-<launcher>
-	<md5>88eef186bee774625654888ef79c6403</md5>
-</launcher>
+#>launcher_-1
+	#>md5_32
+	88eef186bee774625654888ef79c6403
+#<launcher
